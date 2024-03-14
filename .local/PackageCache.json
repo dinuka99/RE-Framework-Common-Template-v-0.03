@@ -10,12 +10,27 @@
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\csvhelper\\16.0.0\\lib/netstandard2.1/CsvHelper.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\documentformat.openxml\\2.12.1\\lib/netstandard2.0/DocumentFormat.OpenXml.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\excelnumberformat\\1.0.10\\lib/netstandard2.0/ExcelNumberFormat.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.configuration\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Logging.Configuration.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\lib/net7.0/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib/net7.0/Microsoft.Extensions.Primitives.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.visualstudio.ole.interop\\16.7.30328.74\\lib/netstandard2.0/Microsoft.VisualStudio.OLE.Interop.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OOXML.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXml4Net.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.OpenXmlFormats.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\npoi\\2.5.5\\lib/netstandard2.1/NPOI.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry\\1.3.2\\lib/netstandard2.0/OpenTelemetry.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.api\\1.3.2\\lib/netstandard2.0/OpenTelemetry.Api.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.instrumentation.http\\1.0.0-rc9.2\\lib/netstandard2.0/OpenTelemetry.Instrumentation.Http.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\lib/netstandard2.0/BouncyCastle.Crypto.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/netstandard2.1/ICSharpCode.SharpZipLib.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
@@ -28,10 +43,129 @@
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.excel.activities\\2.23.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.Package.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.excel.activities\\2.23.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.Activities.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.excel.activities\\2.23.0-preview\\lib/net6.0-windows7.0/UiPath.Excel.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\23.10.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\1.6.69\\lib/netstandard2.0/TelemetryClient.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.opentelemetry\\2.0.41\\lib/netstandard2.0/UiPath.OpenTelemetry.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\24.2.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\2.0.41\\lib/netstandard2.0/TelemetryClient.dll"
       ],
       "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.excel.activities\\2.23.0-preview"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Mail.Activities",
+        "Version": "1.22.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\azure.core\\1.18.0\\lib/net5.0/Azure.Core.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis\\1.55.0\\lib/netstandard2.0/Google.Apis.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.calendar.v3\\1.55.0.2554\\lib/netstandard2.0/Google.Apis.Calendar.v3.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.core\\1.55.0\\lib/netstandard2.0/Google.Apis.Core.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.gmail.v1\\1.55.0.2510\\lib/netstandard2.0/Google.Apis.Gmail.v1.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.peopleservice.v1\\1.55.0.2567\\lib/netstandard2.0/Google.Apis.PeopleService.v1.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\htmlagilitypack\\1.11.38\\lib/netstandard2.0/HtmlAgilityPack.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\mailkit\\3.1.1\\lib/net6.0/MailKit.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.configuration\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Logging.Configuration.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\lib/net7.0/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib/net7.0/Microsoft.Extensions.Primitives.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.graph\\4.11.0\\lib/netstandard2.0/Microsoft.Graph.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.graph.core\\2.0.5\\lib/netstandard2.0/Microsoft.Graph.Core.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib/netcoreapp2.1/Microsoft.Identity.Client.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\mimekit\\3.1.1\\lib/net6.0/MimeKit.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry\\1.3.2\\lib/netstandard2.0/OpenTelemetry.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.api\\1.3.2\\lib/netstandard2.0/OpenTelemetry.Api.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.instrumentation.http\\1.0.0-rc9.2\\lib/netstandard2.0/OpenTelemetry.Instrumentation.Http.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\lib/netstandard2.0/BouncyCastle.Crypto.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.memory.data\\1.0.2\\lib/netstandard2.0/System.Memory.Data.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net5.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.codedworkflows\\23.10.2\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.connectionclient\\1.4.8\\lib/net5.0/ConnectionClient.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/Interop.Domino.UiPath.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/Microsoft.Exchange.WebServices.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Outlook.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Word.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/Office.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/UiPath.Mail.Activities.Api.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/UiPath.Mail.Activities.Design.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/UiPath.Mail.Activities.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/UiPath.Mail.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/UiPath.MainSessionServer.Shared.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.opentelemetry\\2.0.41\\lib/netstandard2.0/UiPath.OpenTelemetry.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\24.2.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\2.0.41\\lib/netstandard2.0/TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.MicrosoftOffice365.Activities",
+        "Version": "2.5.7"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\azure.core\\1.18.0\\lib/net5.0/Azure.Core.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\closedxml\\0.95.4\\lib/netstandard2.0/ClosedXML.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\documentformat.openxml\\2.12.1\\lib/netstandard2.0/DocumentFormat.OpenXml.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\excelnumberformat\\1.0.10\\lib/netstandard2.0/ExcelNumberFormat.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.configuration\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Logging.Configuration.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\lib/net7.0/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib/net7.0/Microsoft.Extensions.Primitives.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.graph\\4.11.0\\lib/netstandard2.0/Microsoft.Graph.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.graph.core\\2.0.5\\lib/netstandard2.0/Microsoft.Graph.Core.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib/netcoreapp2.1/Microsoft.Identity.Client.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry\\1.3.2\\lib/netstandard2.0/OpenTelemetry.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.api\\1.3.2\\lib/netstandard2.0/OpenTelemetry.Api.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.instrumentation.http\\1.0.0-rc9.2\\lib/netstandard2.0/OpenTelemetry.Instrumentation.Http.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20231124.2\\lib/net6.0-windows7.0/System.Activities.ViewModels.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.linq.async\\6.0.1\\lib/net6.0/System.Linq.Async.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.linq.async.queryable\\6.0.1\\lib/net6.0/System.Linq.Async.Queryable.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.memory.data\\1.0.2\\lib/netstandard2.0/System.Memory.Data.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net5.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.connectionclient\\1.4.8\\lib/net5.0/ConnectionClient.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.5.7\\lib/net6.0-windows7.0/UiPath.MicrosoftOffice365.Activities.Design.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.5.7\\lib/net6.0-windows7.0/UiPath.MicrosoftOffice365.Activities.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.5.7\\lib/net6.0-windows7.0/UiPath.MicrosoftOffice365.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.opentelemetry\\2.0.41\\lib/netstandard2.0/UiPath.OpenTelemetry.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\24.2.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\2.0.41\\lib/netstandard2.0/TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.5.7"
     },
     {
       "Package": {
@@ -55,19 +189,19 @@
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.codeanalysis.common\\4.5.0-2.22527.10\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.codeanalysis.csharp\\4.5.0-2.22527.10\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.CSharp.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.codeanalysis.visualbasic\\4.5.0-2.22527.10\\lib/netcoreapp3.1/Microsoft.CodeAnalysis.VisualBasic.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Binder.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.DependencyInjection.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Logging.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.configuration\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Logging.Configuration.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.objectpool\\5.0.17\\lib/net5.0/Microsoft.Extensions.ObjectPool.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Options.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\lib/net7.0/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib/net7.0/Microsoft.Extensions.Primitives.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.management.infrastructure.cimcmdlets\\7.2.15\\runtimes/win/lib/net6.0/Microsoft.Management.Infrastructure.CimCmdlets.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.Native.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes/win10-x64/lib/netstandard1.6/Microsoft.Management.Infrastructure.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.powershell.commands.diagnostics\\7.2.15\\runtimes/win/lib/net6.0/Microsoft.PowerShell.Commands.Diagnostics.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.powershell.commands.management\\7.2.15\\runtimes/win/lib/net6.0/Microsoft.PowerShell.Commands.Management.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.powershell.commands.utility\\7.2.15\\runtimes/win/lib/net6.0/Microsoft.PowerShell.Commands.Utility.dll",
@@ -82,6 +216,9 @@
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\namotion.reflection\\2.0.10\\lib/netstandard2.0/Namotion.Reflection.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\njsonschema\\10.5.2\\lib/netstandard2.0/NJsonSchema.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry\\1.3.2\\lib/netstandard2.0/OpenTelemetry.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.api\\1.3.2\\lib/netstandard2.0/OpenTelemetry.Api.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.instrumentation.http\\1.0.0-rc9.2\\lib/netstandard2.0/OpenTelemetry.Instrumentation.Http.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\sharpziplib\\1.3.3\\lib/netstandard2.1/ICSharpCode.SharpZipLib.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20231124.2\\lib/net6.0-windows7.0/System.Activities.ViewModels.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.componentmodel.composition\\6.0.0\\lib/net6.0/System.ComponentModel.Composition.dll",
@@ -89,7 +226,6 @@
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.data.odbc\\6.0.1\\runtimes/win/lib/net6.0/System.Data.Odbc.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.data.oledb\\6.0.0\\runtimes/win/lib/net6.0/System.Data.OleDb.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.data.sqlclient\\4.8.5\\runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\runtimes/win/lib/net6.0/System.Diagnostics.EventLog.Messages.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.directoryservices.accountmanagement\\6.0.0\\runtimes/win/lib/net6.0/System.DirectoryServices.AccountManagement.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.directoryservices.protocols\\6.0.2\\runtimes/win/lib/net6.0/System.DirectoryServices.Protocols.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
@@ -112,14 +248,15 @@
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.speech\\6.0.0\\runtimes/win/lib/net6.0/System.Speech.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.web.services.description\\4.9.0\\lib/netstandard2.0/System.Web.Services.Description.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.codedworkflows\\23.10.2\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\23.10.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.opentelemetry\\2.0.41\\lib/netstandard2.0/UiPath.OpenTelemetry.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\24.2.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.system.activities\\23.12.0-preview\\lib/net6.0-windows7.0/UiPath.System.Activities.Design.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.system.activities\\23.12.0-preview\\lib/net6.0-windows7.0/UiPath.System.Activities.ViewModels.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.system.activities.runtime\\23.12.0-preview\\lib/net6.0-windows7.0/UiPath.System.Activities.Package.Runtime.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.12.0-preview\\lib/net6.0-windows7.0/UiPath.OrchestratorClient.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.12.0-preview\\lib/net6.0-windows7.0/UiPath.System.Activities.Api.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.system.activities.runtime.windows\\23.12.0-preview\\lib/net6.0-windows7.0/UiPath.System.Activities.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\1.6.69\\lib/netstandard2.0/TelemetryClient.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\2.0.41\\lib/netstandard2.0/TelemetryClient.dll"
       ],
       "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.system.activities\\23.12.0-preview"
     },
@@ -130,14 +267,30 @@
       },
       "Assemblies": [
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\automapper\\9.0.0\\lib/netstandard2.0/AutoMapper.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.configuration\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Logging.Configuration.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\lib/net7.0/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib/net7.0/Microsoft.Extensions.Primitives.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.24\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry\\1.3.2\\lib/netstandard2.0/OpenTelemetry.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.api\\1.3.2\\lib/netstandard2.0/OpenTelemetry.Api.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.instrumentation.http\\1.0.0-rc9.2\\lib/netstandard2.0/OpenTelemetry.Instrumentation.Http.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20231124.2\\lib/net6.0-windows7.0/System.Activities.ViewModels.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.codedworkflows\\23.10.2\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\23.10.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\1.6.69\\lib/netstandard2.0/TelemetryClient.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.opentelemetry\\2.0.41\\lib/netstandard2.0/UiPath.OpenTelemetry.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\24.2.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\2.0.41\\lib/netstandard2.0/TelemetryClient.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.testing.activities\\23.12.0-preview\\lib/net6.0-windows7.0/UiPath.Testing.Activities.Api.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.testing.activities\\23.12.0-preview\\lib/net6.0-windows7.0/UiPath.Testing.Activities.Design.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.testing.activities\\23.12.0-preview\\lib/net6.0-windows7.0/UiPath.Testing.Activities.dll",
@@ -153,11 +306,26 @@
       },
       "Assemblies": [
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.azure.cognitiveservices.vision.computervision\\7.0.1\\lib/netstandard2.0/Microsoft.Azure.CognitiveServices.Vision.ComputerVision.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.configuration\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Logging.Configuration.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\lib/net7.0/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib/net7.0/Microsoft.Extensions.Primitives.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.rest.clientruntime\\2.3.24\\lib/netstandard2.0/Microsoft.Rest.ClientRuntime.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.rest.clientruntime.azure\\3.3.18\\lib/netstandard1.4/Microsoft.Rest.ClientRuntime.Azure.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\nlog\\4.5.11\\lib/netstandard2.0/NLog.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\polly\\7.1.0\\lib/netstandard2.0/Polly.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry\\1.3.2\\lib/netstandard2.0/OpenTelemetry.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.api\\1.3.2\\lib/netstandard2.0/OpenTelemetry.Api.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.instrumentation.http\\1.0.0-rc9.2\\lib/netstandard2.0/OpenTelemetry.Instrumentation.Http.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\polly\\7.2.3\\lib/netstandard2.0/Polly.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath\\23.10.71.64399\\lib/net6.0-windows7.0/UiPath.Interop.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net5.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
@@ -167,8 +335,9 @@
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.ocr.activities\\3.17.1\\lib/net6.0-windows7.0/UiPath.OCR.Activities.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.ocr.activities\\3.17.1\\lib/net6.0-windows7.0/UiPath.OCR.Core.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.ocr.contracts\\2.16.0\\lib/net6.0-windows7.0/UiPath.OCR.Contracts.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\23.10.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\1.6.69\\lib/netstandard2.0/TelemetryClient.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.opentelemetry\\2.0.41\\lib/netstandard2.0/UiPath.OpenTelemetry.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\24.2.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\2.0.41\\lib/netstandard2.0/TelemetryClient.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.uiautomation.activities\\23.10.8\\lib/net6.0-windows7.0/UiPath.CV.Activities.Design.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.uiautomation.activities\\23.10.8\\lib/net6.0-windows7.0/UiPath.Semantic.Activities.Design.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.uiautomation.activities\\23.10.8\\lib/net6.0-windows7.0/UiPath.UIAutomation.Activities.Design.dll",
@@ -194,91 +363,46 @@
     },
     {
       "Package": {
-        "Id": "UiPath.MicrosoftOffice365.Activities",
-        "Version": "2.5.7"
+        "Id": "UiPath.IntegrationService.Activities",
+        "Version": "1.3.0"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\azure.core\\1.18.0\\lib/net5.0/Azure.Core.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\closedxml\\0.95.4\\lib/netstandard2.0/ClosedXML.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\documentformat.openxml\\2.12.1\\lib/netstandard2.0/DocumentFormat.OpenXml.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\excelnumberformat\\1.0.10\\lib/netstandard2.0/ExcelNumberFormat.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.graph\\4.11.0\\lib/netstandard2.0/Microsoft.Graph.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.graph.core\\2.0.5\\lib/netstandard2.0/Microsoft.Graph.Core.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib/netcoreapp2.1/Microsoft.Identity.Client.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Configuration.Binder.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\lib/net7.0/Microsoft.Extensions.Http.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.http.polly\\7.0.5\\lib/netstandard2.0/Microsoft.Extensions.Http.Polly.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib/net7.0/Microsoft.Extensions.Logging.Abstractions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.configuration\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Logging.Configuration.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\lib/net7.0/Microsoft.Extensions.Options.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\lib/netstandard2.0/Microsoft.Extensions.Options.ConfigurationExtensions.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib/net7.0/Microsoft.Extensions.Primitives.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\nito.asyncex.coordination\\5.1.2\\lib/netstandard2.0/Nito.AsyncEx.Coordination.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\nito.asyncex.tasks\\5.1.2\\lib/netstandard2.0/Nito.AsyncEx.Tasks.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\nito.collections.deque\\1.1.1\\lib/netstandard2.0/Nito.Collections.Deque.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\nito.disposables\\2.2.1\\lib/netstandard2.1/Nito.Disposables.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry\\1.3.2\\lib/netstandard2.0/OpenTelemetry.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.api\\1.3.2\\lib/netstandard2.0/OpenTelemetry.Api.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.instrumentation.http\\1.0.0-rc9.2\\lib/netstandard2.0/OpenTelemetry.Instrumentation.Http.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\polly\\7.2.3\\lib/netstandard2.0/Polly.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\polly.contrib.waitandretry\\1.1.1\\lib/netstandard2.0/Polly.Contrib.WaitAndRetry.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\polly.extensions.http\\3.0.0\\lib/netstandard2.0/Polly.Extensions.Http.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.activities.viewmodels\\1.0.0-20231124.2\\lib/net6.0-windows7.0/System.Activities.ViewModels.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.linq.async\\6.0.1\\lib/net6.0/System.Linq.Async.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.linq.async.queryable\\6.0.1\\lib/net6.0/System.Linq.Async.Queryable.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.memory.data\\1.0.2\\lib/netstandard2.0/System.Memory.Data.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net5.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
         "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.connectionclient\\1.4.8\\lib/net5.0/ConnectionClient.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.5.7\\lib/net6.0-windows7.0/UiPath.MicrosoftOffice365.Activities.Design.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.5.7\\lib/net6.0-windows7.0/UiPath.MicrosoftOffice365.Activities.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.5.7\\lib/net6.0-windows7.0/UiPath.MicrosoftOffice365.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\23.10.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\1.6.69\\lib/netstandard2.0/TelemetryClient.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.integrationservice.activities\\1.3.0\\lib/net6.0/UiPath.IntegrationService.Activities.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.integrationservice.activities\\1.3.0\\lib/net6.0/UiPath.IntegrationService.Activities.Runtime.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.opentelemetry\\2.0.41\\lib/netstandard2.0/UiPath.OpenTelemetry.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\24.2.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\2.0.41\\lib/netstandard2.0/TelemetryClient.dll"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.microsoftoffice365.activities\\2.5.7"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.Mail.Activities",
-        "Version": "1.22.1"
-      },
-      "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\azure.core\\1.18.0\\lib/net5.0/Azure.Core.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis\\1.55.0\\lib/netstandard2.0/Google.Apis.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib/netstandard2.0/Google.Apis.Auth.PlatformServices.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.calendar.v3\\1.55.0.2554\\lib/netstandard2.0/Google.Apis.Calendar.v3.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.core\\1.55.0\\lib/netstandard2.0/Google.Apis.Core.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.gmail.v1\\1.55.0.2510\\lib/netstandard2.0/Google.Apis.Gmail.v1.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.peopleservice.v1\\1.55.0.2567\\lib/netstandard2.0/Google.Apis.PeopleService.v1.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\htmlagilitypack\\1.11.38\\lib/netstandard2.0/HtmlAgilityPack.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\mailkit\\3.1.1\\lib/net6.0/MailKit.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\lib/netstandard2.1/Microsoft.Bcl.AsyncInterfaces.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\5.0.0\\lib/netstandard2.0/Microsoft.Extensions.FileSystemGlobbing.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.graph\\4.11.0\\lib/netstandard2.0/Microsoft.Graph.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.graph.core\\2.0.5\\lib/netstandard2.0/Microsoft.Graph.Core.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identity.client\\4.35.1\\lib/netcoreapp2.1/Microsoft.Identity.Client.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.JsonWebTokens.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.logging\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Logging.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.protocols\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Protocols.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.protocols.openidconnect\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.identitymodel.tokens\\6.12.2\\lib/netstandard2.0/Microsoft.IdentityModel.Tokens.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\mimekit\\3.1.1\\lib/net6.0/MimeKit.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\newtonsoft.json\\13.0.3\\lib/net6.0/Newtonsoft.Json.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\portable.bouncycastle\\1.9.0\\lib/netstandard2.0/BouncyCastle.Crypto.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.identitymodel.tokens.jwt\\6.12.2\\lib/netstandard2.0/System.IdentityModel.Tokens.Jwt.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.io.abstractions\\3.0.10\\lib/netstandard2.0/System.IO.Abstractions.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.memory.data\\1.0.2\\lib/netstandard2.0/System.Memory.Data.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.runtime.caching\\6.0.0\\runtimes/win/lib/net6.0/System.Runtime.Caching.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\lib/net5.0-windows7.0/UiPath.Activities.RuntimeGovernance.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.codedworkflows\\23.10.2\\lib/net6.0-windows7.0/UiPath.CodedWorkflows.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.connectionclient\\1.4.8\\lib/net5.0/ConnectionClient.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/Interop.Domino.UiPath.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/Microsoft.Exchange.WebServices.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Outlook.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/Microsoft.Office.Interop.Word.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/Office.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/UiPath.Mail.Activities.Api.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/UiPath.Mail.Activities.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/UiPath.Mail.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1\\lib/net6.0-windows7.0/UiPath.MainSessionServer.Shared.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\23.10.0\\lib/net6.0-windows7.0/UiPath.Platform.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\1.6.69\\lib/netstandard2.0/TelemetryClient.dll"
-      ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.mail.activities\\1.22.1"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.integrationservice.activities\\1.3.0"
     }
   ],
   "Conflicts": [],
@@ -715,47 +839,51 @@
     },
     "Microsoft.Extensions.Configuration": {
       "Id": "Microsoft.Extensions.Configuration",
-      "Version": "3.1.6",
+      "Version": "6.0.0",
       "Dependencies": [
         {
           "Item1": "Microsoft.Extensions.Configuration.Abstractions",
-          "Item2": "[3.1.6, )"
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Primitives",
+          "Item2": "[6.0.0, )"
         }
       ]
     },
     "Microsoft.Extensions.Configuration.Abstractions": {
       "Id": "Microsoft.Extensions.Configuration.Abstractions",
-      "Version": "3.1.6",
+      "Version": "6.0.0",
       "Dependencies": [
         {
           "Item1": "Microsoft.Extensions.Primitives",
-          "Item2": "[3.1.6, )"
+          "Item2": "[6.0.0, )"
         }
       ]
     },
     "Microsoft.Extensions.Configuration.Binder": {
       "Id": "Microsoft.Extensions.Configuration.Binder",
-      "Version": "3.1.6",
+      "Version": "6.0.0",
       "Dependencies": [
         {
-          "Item1": "Microsoft.Extensions.Configuration",
-          "Item2": "[3.1.6, )"
+          "Item1": "Microsoft.Extensions.Configuration.Abstractions",
+          "Item2": "[6.0.0, )"
         }
       ]
     },
     "Microsoft.Extensions.DependencyInjection": {
       "Id": "Microsoft.Extensions.DependencyInjection",
-      "Version": "3.1.6",
+      "Version": "7.0.0",
       "Dependencies": [
         {
           "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
-          "Item2": "[3.1.6, )"
+          "Item2": "[7.0.0, )"
         }
       ]
     },
     "Microsoft.Extensions.DependencyInjection.Abstractions": {
       "Id": "Microsoft.Extensions.DependencyInjection.Abstractions",
-      "Version": "3.1.6",
+      "Version": "7.0.0",
       "Dependencies": []
     },
     "Microsoft.Extensions.FileSystemGlobbing": {
@@ -763,32 +891,110 @@
       "Version": "5.0.0",
       "Dependencies": []
     },
-    "Microsoft.Extensions.Logging": {
-      "Id": "Microsoft.Extensions.Logging",
-      "Version": "3.1.6",
+    "Microsoft.Extensions.Http": {
+      "Id": "Microsoft.Extensions.Http",
+      "Version": "7.0.0",
       "Dependencies": [
         {
-          "Item1": "Microsoft.Extensions.Configuration.Binder",
-          "Item2": "[3.1.6, )"
-        },
-        {
-          "Item1": "Microsoft.Extensions.DependencyInjection",
-          "Item2": "[3.1.6, )"
+          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "Item2": "[7.0.0, )"
         },
         {
           "Item1": "Microsoft.Extensions.Logging.Abstractions",
-          "Item2": "[3.1.6, )"
+          "Item2": "[7.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Logging",
+          "Item2": "[7.0.0, )"
         },
         {
           "Item1": "Microsoft.Extensions.Options",
-          "Item2": "[3.1.6, )"
+          "Item2": "[7.0.0, )"
+        }
+      ]
+    },
+    "Microsoft.Extensions.Http.Polly": {
+      "Id": "Microsoft.Extensions.Http.Polly",
+      "Version": "7.0.5",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.Http",
+          "Item2": "[7.0.0, )"
+        },
+        {
+          "Item1": "Polly",
+          "Item2": "[7.2.3, )"
+        },
+        {
+          "Item1": "Polly.Extensions.Http",
+          "Item2": "[3.0.0, )"
+        }
+      ]
+    },
+    "Microsoft.Extensions.Logging": {
+      "Id": "Microsoft.Extensions.Logging",
+      "Version": "7.0.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "Item2": "[7.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.DependencyInjection",
+          "Item2": "[7.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Logging.Abstractions",
+          "Item2": "[7.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Options",
+          "Item2": "[7.0.0, )"
         }
       ]
     },
     "Microsoft.Extensions.Logging.Abstractions": {
       "Id": "Microsoft.Extensions.Logging.Abstractions",
-      "Version": "3.1.6",
+      "Version": "7.0.0",
       "Dependencies": []
+    },
+    "Microsoft.Extensions.Logging.Configuration": {
+      "Id": "Microsoft.Extensions.Logging.Configuration",
+      "Version": "6.0.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.Configuration.Abstractions",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Configuration.Binder",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Configuration",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Logging.Abstractions",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Logging",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Options.ConfigurationExtensions",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Options",
+          "Item2": "[6.0.0, )"
+        }
+      ]
     },
     "Microsoft.Extensions.ObjectPool": {
       "Id": "Microsoft.Extensions.ObjectPool",
@@ -797,21 +1003,47 @@
     },
     "Microsoft.Extensions.Options": {
       "Id": "Microsoft.Extensions.Options",
-      "Version": "3.1.6",
+      "Version": "7.0.0",
       "Dependencies": [
         {
           "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
-          "Item2": "[3.1.6, )"
+          "Item2": "[7.0.0, )"
         },
         {
           "Item1": "Microsoft.Extensions.Primitives",
-          "Item2": "[3.1.6, )"
+          "Item2": "[7.0.0, )"
+        }
+      ]
+    },
+    "Microsoft.Extensions.Options.ConfigurationExtensions": {
+      "Id": "Microsoft.Extensions.Options.ConfigurationExtensions",
+      "Version": "6.0.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.Configuration.Abstractions",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Configuration.Binder",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.DependencyInjection.Abstractions",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Options",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Primitives",
+          "Item2": "[6.0.0, )"
         }
       ]
     },
     "Microsoft.Extensions.Primitives": {
       "Id": "Microsoft.Extensions.Primitives",
-      "Version": "3.1.6",
+      "Version": "7.0.0",
       "Dependencies": []
     },
     "Microsoft.Graph": {
@@ -1639,6 +1871,45 @@
       "Version": "13.0.3",
       "Dependencies": []
     },
+    "Nito.AsyncEx.Coordination": {
+      "Id": "Nito.AsyncEx.Coordination",
+      "Version": "5.1.2",
+      "Dependencies": [
+        {
+          "Item1": "Nito.AsyncEx.Tasks",
+          "Item2": "[5.1.2, )"
+        },
+        {
+          "Item1": "Nito.Collections.Deque",
+          "Item2": "[1.1.1, )"
+        }
+      ]
+    },
+    "Nito.AsyncEx.Tasks": {
+      "Id": "Nito.AsyncEx.Tasks",
+      "Version": "5.1.2",
+      "Dependencies": [
+        {
+          "Item1": "Nito.Disposables",
+          "Item2": "[2.2.1, )"
+        }
+      ]
+    },
+    "Nito.Collections.Deque": {
+      "Id": "Nito.Collections.Deque",
+      "Version": "1.1.1",
+      "Dependencies": []
+    },
+    "Nito.Disposables": {
+      "Id": "Nito.Disposables",
+      "Version": "2.2.1",
+      "Dependencies": [
+        {
+          "Item1": "System.Collections.Immutable",
+          "Item2": "[1.7.1, )"
+        }
+      ]
+    },
     "NJsonSchema": {
       "Id": "NJsonSchema",
       "Version": "10.5.2",
@@ -1680,10 +1951,75 @@
         }
       ]
     },
+    "OpenTelemetry": {
+      "Id": "OpenTelemetry",
+      "Version": "1.3.2",
+      "Dependencies": [
+        {
+          "Item1": "OpenTelemetry.Api",
+          "Item2": "[1.3.2, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Logging",
+          "Item2": "[3.1.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Logging.Configuration",
+          "Item2": "[3.1.0, )"
+        },
+        {
+          "Item1": "System.Collections.Immutable",
+          "Item2": "[1.4.0, )"
+        },
+        {
+          "Item1": "System.Reflection.Emit.Lightweight",
+          "Item2": "[4.7.0, )"
+        }
+      ]
+    },
+    "OpenTelemetry.Api": {
+      "Id": "OpenTelemetry.Api",
+      "Version": "1.3.2",
+      "Dependencies": [
+        {
+          "Item1": "System.Diagnostics.DiagnosticSource",
+          "Item2": "[6.0.0, 8.0.0)"
+        },
+        {
+          "Item1": "System.Reflection.Emit.Lightweight",
+          "Item2": "[4.7.0, )"
+        }
+      ]
+    },
+    "OpenTelemetry.Instrumentation.Http": {
+      "Id": "OpenTelemetry.Instrumentation.Http",
+      "Version": "1.0.0-rc9.2",
+      "Dependencies": [
+        {
+          "Item1": "OpenTelemetry",
+          "Item2": "[1.2.0-rc5, )"
+        }
+      ]
+    },
     "Polly": {
       "Id": "Polly",
-      "Version": "7.1.0",
+      "Version": "7.2.3",
       "Dependencies": []
+    },
+    "Polly.Contrib.WaitAndRetry": {
+      "Id": "Polly.Contrib.WaitAndRetry",
+      "Version": "1.1.1",
+      "Dependencies": []
+    },
+    "Polly.Extensions.Http": {
+      "Id": "Polly.Extensions.Http",
+      "Version": "3.0.0",
+      "Dependencies": [
+        {
+          "Item1": "Polly",
+          "Item2": "[7.1.0, )"
+        }
+      ]
     },
     "Portable.BouncyCastle": {
       "Id": "Portable.BouncyCastle",
@@ -2162,8 +2498,13 @@
     },
     "System.Diagnostics.DiagnosticSource": {
       "Id": "System.Diagnostics.DiagnosticSource",
-      "Version": "5.0.1",
-      "Dependencies": []
+      "Version": "6.0.0",
+      "Dependencies": [
+        {
+          "Item1": "System.Runtime.CompilerServices.Unsafe",
+          "Item2": "[6.0.0, )"
+        }
+      ]
     },
     "System.Diagnostics.EventLog": {
       "Id": "System.Diagnostics.EventLog",
@@ -3111,25 +3452,8 @@
     },
     "System.Reflection.Emit.Lightweight": {
       "Id": "System.Reflection.Emit.Lightweight",
-      "Version": "4.3.0",
-      "Dependencies": [
-        {
-          "Item1": "System.Reflection",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Reflection.Emit.ILGeneration",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Reflection.Primitives",
-          "Item2": "[4.3.0, )"
-        },
-        {
-          "Item1": "System.Runtime",
-          "Item2": "[4.3.0, )"
-        }
-      ]
+      "Version": "4.7.0",
+      "Dependencies": []
     },
     "System.Reflection.Extensions": {
       "Id": "System.Reflection.Extensions",
@@ -4051,7 +4375,7 @@
     },
     "System.Threading.Tasks.Dataflow": {
       "Id": "System.Threading.Tasks.Dataflow",
-      "Version": "5.0.0",
+      "Version": "6.0.0",
       "Dependencies": []
     },
     "System.Threading.Tasks.Extensions": {
@@ -4319,6 +4643,48 @@
       "Version": "23.4.0",
       "Dependencies": []
     },
+    "UiPath.IntegrationService.Activities": {
+      "Id": "UiPath.IntegrationService.Activities",
+      "Version": "1.3.0",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Extensions.DependencyInjection",
+          "Item2": "[7.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Http",
+          "Item2": "[7.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Http.Polly",
+          "Item2": "[7.0.5, )"
+        },
+        {
+          "Item1": "Nito.AsyncEx.Coordination",
+          "Item2": "[5.1.2, )"
+        },
+        {
+          "Item1": "Polly.Contrib.WaitAndRetry",
+          "Item2": "[1.1.1, )"
+        },
+        {
+          "Item1": "System.Activities.ViewModels",
+          "Item2": "[1.0.0-20231115.3, )"
+        },
+        {
+          "Item1": "UiPath.ConnectionClient",
+          "Item2": "[1.4.5, )"
+        },
+        {
+          "Item1": "UiPath.Platform",
+          "Item2": "[24.2.0, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[2.0.41, )"
+        }
+      ]
+    },
     "UiPath.Mail.Activities": {
       "Id": "UiPath.Mail.Activities",
       "Version": "1.22.1",
@@ -4507,9 +4873,35 @@
         }
       ]
     },
+    "UiPath.OpenTelemetry": {
+      "Id": "UiPath.OpenTelemetry",
+      "Version": "2.0.41",
+      "Dependencies": [
+        {
+          "Item1": "Microsoft.Bcl.AsyncInterfaces",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.DependencyInjection",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "Microsoft.Extensions.Logging.Configuration",
+          "Item2": "[6.0.0, )"
+        },
+        {
+          "Item1": "OpenTelemetry",
+          "Item2": "[1.3.2, )"
+        },
+        {
+          "Item1": "OpenTelemetry.Instrumentation.Http",
+          "Item2": "[1.0.0-rc9.2, )"
+        }
+      ]
+    },
     "UiPath.Platform": {
       "Id": "UiPath.Platform",
-      "Version": "23.10.0",
+      "Version": "24.2.0",
       "Dependencies": [
         {
           "Item1": "Newtonsoft.Json",
@@ -4518,6 +4910,10 @@
         {
           "Item1": "System.IO.Abstractions",
           "Item2": "[3.0.10, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks.Dataflow",
+          "Item2": "[6.0.0, )"
         },
         {
           "Item1": "System.ValueTuple",
@@ -4673,8 +5069,16 @@
     },
     "UiPath.Telemetry.Client": {
       "Id": "UiPath.Telemetry.Client",
-      "Version": "1.6.69",
+      "Version": "2.0.41",
       "Dependencies": [
+        {
+          "Item1": "UiPath.OpenTelemetry",
+          "Item2": "[2.0.41, )"
+        },
+        {
+          "Item1": "Microsoft.Bcl.AsyncInterfaces",
+          "Item2": "[6.0.0, )"
+        },
         {
           "Item1": "Newtonsoft.Json",
           "Item2": "[11.0.2, )"
@@ -4883,8 +5287,8 @@
         "Version": "1.55.0"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.PlatformServices.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.auth\\1.55.0\\lib\\netstandard2.0\\Google.Apis.Auth.dll"
       ],
       "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\google.apis.auth\\1.55.0"
     },
@@ -5129,52 +5533,52 @@
     {
       "Package": {
         "Id": "Microsoft.Extensions.Configuration",
-        "Version": "3.1.6"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Configuration.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.dll"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.6"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration\\6.0.0"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.Configuration.Abstractions",
-        "Version": "3.1.6"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Abstractions.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.Configuration.Binder",
-        "Version": "3.1.6"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Configuration.Binder.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0\\lib\\netstandard2.0\\Microsoft.Extensions.Configuration.Binder.dll"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.binder\\3.1.6"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.configuration.binder\\6.0.0"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.DependencyInjection",
-        "Version": "3.1.6"
+        "Version": "7.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.DependencyInjection.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.DependencyInjection.dll"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.6"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.DependencyInjection.Abstractions",
-        "Version": "3.1.6"
+        "Version": "7.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0"
     },
     {
       "Package": {
@@ -5188,23 +5592,53 @@
     },
     {
       "Package": {
-        "Id": "Microsoft.Extensions.Logging",
-        "Version": "3.1.6"
+        "Id": "Microsoft.Extensions.Http",
+        "Version": "7.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Logging.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.http\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.Http.dll"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging\\3.1.6"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.http\\7.0.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Extensions.Http.Polly",
+        "Version": "7.0.5"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.http.polly\\7.0.5\\lib\\netstandard2.0\\Microsoft.Extensions.Http.Polly.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.http.polly\\7.0.5"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Extensions.Logging",
+        "Version": "7.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.Logging.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging\\7.0.0"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.Logging.Abstractions",
-        "Version": "3.1.6"
+        "Version": "7.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\lib\\netstandard2.0\\Microsoft.Extensions.Logging.Abstractions.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.Logging.Abstractions.dll"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Extensions.Logging.Configuration",
+        "Version": "6.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.configuration\\6.0.0\\lib\\netstandard2.0\\Microsoft.Extensions.Logging.Configuration.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.logging.configuration\\6.0.0"
     },
     {
       "Package": {
@@ -5219,22 +5653,32 @@
     {
       "Package": {
         "Id": "Microsoft.Extensions.Options",
-        "Version": "3.1.6"
+        "Version": "7.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Options.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.Options.dll"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options\\3.1.6"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options\\7.0.0"
+    },
+    {
+      "Package": {
+        "Id": "Microsoft.Extensions.Options.ConfigurationExtensions",
+        "Version": "6.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0\\lib\\netstandard2.0\\Microsoft.Extensions.Options.ConfigurationExtensions.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.options.configurationextensions\\6.0.0"
     },
     {
       "Package": {
         "Id": "Microsoft.Extensions.Primitives",
-        "Version": "3.1.6"
+        "Version": "7.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\lib\\netcoreapp3.1\\Microsoft.Extensions.Primitives.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\lib\\net7.0\\Microsoft.Extensions.Primitives.dll"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0"
     },
     {
       "Package": {
@@ -5349,10 +5793,7 @@
         "Id": "Microsoft.Management.Infrastructure.Runtime.Win",
         "Version": "2.0.0"
       },
-      "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes\\win10-x64\\lib\\netstandard1.6\\Microsoft.Management.Infrastructure.Native.dll",
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0\\runtimes\\win10-x64\\lib\\netstandard1.6\\Microsoft.Management.Infrastructure.dll"
-      ],
+      "Assemblies": [],
       "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\microsoft.management.infrastructure.runtime.win\\2.0.0"
     },
     {
@@ -5617,6 +6058,46 @@
     },
     {
       "Package": {
+        "Id": "Nito.AsyncEx.Coordination",
+        "Version": "5.1.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\nito.asyncex.coordination\\5.1.2\\lib\\netstandard2.0\\Nito.AsyncEx.Coordination.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\nito.asyncex.coordination\\5.1.2"
+    },
+    {
+      "Package": {
+        "Id": "Nito.AsyncEx.Tasks",
+        "Version": "5.1.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\nito.asyncex.tasks\\5.1.2\\lib\\netstandard2.0\\Nito.AsyncEx.Tasks.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\nito.asyncex.tasks\\5.1.2"
+    },
+    {
+      "Package": {
+        "Id": "Nito.Collections.Deque",
+        "Version": "1.1.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\nito.collections.deque\\1.1.1\\lib\\netstandard2.0\\Nito.Collections.Deque.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\nito.collections.deque\\1.1.1"
+    },
+    {
+      "Package": {
+        "Id": "Nito.Disposables",
+        "Version": "2.2.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\nito.disposables\\2.2.1\\lib\\netstandard2.1\\Nito.Disposables.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\nito.disposables\\2.2.1"
+    },
+    {
+      "Package": {
         "Id": "NJsonSchema",
         "Version": "10.5.2"
       },
@@ -5650,13 +6131,63 @@
     },
     {
       "Package": {
-        "Id": "Polly",
-        "Version": "7.1.0"
+        "Id": "OpenTelemetry",
+        "Version": "1.3.2"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\polly\\7.1.0\\lib\\netstandard2.0\\Polly.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry\\1.3.2\\lib\\netstandard2.0\\OpenTelemetry.dll"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\polly\\7.1.0"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry\\1.3.2"
+    },
+    {
+      "Package": {
+        "Id": "OpenTelemetry.Api",
+        "Version": "1.3.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.api\\1.3.2\\lib\\netstandard2.0\\OpenTelemetry.Api.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.api\\1.3.2"
+    },
+    {
+      "Package": {
+        "Id": "OpenTelemetry.Instrumentation.Http",
+        "Version": "1.0.0-rc9.2"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.instrumentation.http\\1.0.0-rc9.2\\lib\\netstandard2.0\\OpenTelemetry.Instrumentation.Http.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\opentelemetry.instrumentation.http\\1.0.0-rc9.2"
+    },
+    {
+      "Package": {
+        "Id": "Polly",
+        "Version": "7.2.3"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\polly\\7.2.3\\lib\\netstandard2.0\\Polly.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\polly\\7.2.3"
+    },
+    {
+      "Package": {
+        "Id": "Polly.Contrib.WaitAndRetry",
+        "Version": "1.1.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\polly.contrib.waitandretry\\1.1.1\\lib\\netstandard2.0\\Polly.Contrib.WaitAndRetry.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\polly.contrib.waitandretry\\1.1.1"
+    },
+    {
+      "Package": {
+        "Id": "Polly.Extensions.Http",
+        "Version": "3.0.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\polly.extensions.http\\3.0.0\\lib\\netstandard2.0\\Polly.Extensions.Http.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\polly.extensions.http\\3.0.0"
     },
     {
       "Package": {
@@ -6128,24 +6659,6 @@
     },
     {
       "Package": {
-        "Id": "runtime.win7-x64.runtime.native.System.IO.Compression",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\runtime.win7-x64.runtime.native.system.io.compression\\4.3.0"
-    },
-    {
-      "Package": {
-        "Id": "runtime.win7.System.Private.Uri",
-        "Version": "4.3.0"
-      },
-      "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\runtime.win7.system.private.uri\\4.3.0\\runtimes\\win\\lib\\netstandard1.0\\System.Private.Uri.dll"
-      ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\runtime.win7.system.private.uri\\4.3.0"
-    },
-    {
-      "Package": {
         "Id": "SharpZipLib",
         "Version": "1.3.3"
       },
@@ -6321,12 +6834,12 @@
     {
       "Package": {
         "Id": "System.Diagnostics.DiagnosticSource",
-        "Version": "5.0.1"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\lib\\net5.0\\System.Diagnostics.DiagnosticSource.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\lib\\net6.0\\System.Diagnostics.DiagnosticSource.dll"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0"
     },
     {
       "Package": {
@@ -6762,12 +7275,12 @@
     {
       "Package": {
         "Id": "System.Reflection.Emit.Lightweight",
-        "Version": "4.3.0"
+        "Version": "4.7.0"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0\\lib\\netstandard1.3\\System.Reflection.Emit.Lightweight.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\lib\\netcoreapp2.0\\_._"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.reflection.emit.lightweight\\4.3.0"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0"
     },
     {
       "Package": {
@@ -7223,12 +7736,12 @@
     {
       "Package": {
         "Id": "System.Threading.Tasks.Dataflow",
-        "Version": "5.0.0"
+        "Version": "6.0.0"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0\\lib\\netstandard2.0\\System.Threading.Tasks.Dataflow.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.threading.tasks.dataflow\\6.0.0\\lib\\net6.0\\System.Threading.Tasks.Dataflow.dll"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.threading.tasks.dataflow\\5.0.0"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.threading.tasks.dataflow\\6.0.0"
     },
     {
       "Package": {
@@ -7367,6 +7880,17 @@
     },
     {
       "Package": {
+        "Id": "UiPath.IntegrationService.Activities",
+        "Version": "1.3.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.integrationservice.activities\\1.3.0\\lib\\net6.0\\UiPath.IntegrationService.Activities.dll",
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.integrationservice.activities\\1.3.0\\lib\\net6.0\\UiPath.IntegrationService.Activities.Runtime.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.integrationservice.activities\\1.3.0"
+    },
+    {
+      "Package": {
         "Id": "UiPath.Mail.Activities",
         "Version": "1.22.1"
       },
@@ -7420,13 +7944,23 @@
     },
     {
       "Package": {
-        "Id": "UiPath.Platform",
-        "Version": "23.10.0"
+        "Id": "UiPath.OpenTelemetry",
+        "Version": "2.0.41"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\23.10.0\\lib\\net6.0-windows7.0\\UiPath.Platform.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.opentelemetry\\2.0.41\\lib\\netstandard2.0\\UiPath.OpenTelemetry.dll"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\23.10.0"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.opentelemetry\\2.0.41"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Platform",
+        "Version": "24.2.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\24.2.0\\lib\\net6.0-windows7.0\\UiPath.Platform.dll"
+      ],
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.platform\\24.2.0"
     },
     {
       "Package": {
@@ -7464,12 +7998,12 @@
     {
       "Package": {
         "Id": "UiPath.Telemetry.Client",
-        "Version": "1.6.69"
+        "Version": "2.0.41"
       },
       "Assemblies": [
-        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\1.6.69\\lib\\netstandard2.0\\TelemetryClient.dll"
+        "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\2.0.41\\lib\\netstandard2.0\\TelemetryClient.dll"
       ],
-      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\1.6.69"
+      "Path": "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.telemetry.client\\2.0.41"
     },
     {
       "Package": {
