@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "xzglpFX6T64gO2/kWjywrs4YScxv4gK4LYDctpWGt/bJzQvz4nInntC7a9DoLwTfwHQ0K6UG6H4pDoXMSbepNA==",
+  "dgSpecHash": "yR6qWM286V+DQBzgqSMGzLvQ7pkZ3/BBYqnULOtha32iRpnKsl4h1NDagLzOvfZIMPvpULXQLTSNVLDFsPYPDA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Dinuka Thilakarathne\\OneDrive\\Documents\\UiPath\\RE-Framework Common Template v0.03\\.local\\",
   "expectedPackageFiles": [
@@ -281,7 +281,7 @@
     "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath\\23.10.71.64399\\uipath.23.10.71.64399.nupkg.sha512",
     "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.activities.runtimegovernance\\1.1.6\\uipath.activities.runtimegovernance.1.1.6.nupkg.sha512",
-    "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.codedworkflows\\23.10.2\\uipath.codedworkflows.23.10.2.nupkg.sha512",
+    "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.codedworkflows\\24.4.0-preview\\uipath.codedworkflows.24.4.0-preview.nupkg.sha512",
     "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.connectionclient\\1.4.8\\uipath.connectionclient.1.4.8.nupkg.sha512",
     "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.documentprocessing.contracts\\1.23.0\\uipath.documentprocessing.contracts.1.23.0.nupkg.sha512",
     "C:\\Users\\Dinuka Thilakarathne\\.nuget\\packages\\uipath.documentunderstanding.digitizer\\3.7.0\\uipath.documentunderstanding.digitizer.3.7.0.nupkg.sha512",
