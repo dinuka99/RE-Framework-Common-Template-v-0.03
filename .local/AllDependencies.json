@@ -23717,6 +23717,7 @@
       "UiPath.Mail.Activities >= 1.22.1 <= 1.22.1",
       "UiPath.MicrosoftOffice365.Activities >= 2.5.7 <= 2.5.7",
       "UiPath.PDF.Activities >= 3.16.0 <= 3.16.0",
+      "UiPath.Slack.IntegrationService.Activities >= 3.5.3 <= 3.5.3",
       "UiPath.System.Activities >= 23.12.0-preview <= 23.12.0-preview",
       "UiPath.Testing.Activities >= 23.12.0-preview <= 23.12.0-preview",
       "UiPath.UIAutomation.Activities >= 23.10.8 <= 23.10.8"
@@ -23766,6 +23767,11 @@
             "target": "Package",
             "version": "[3.16.0, 3.16.0]"
           },
+          "UiPath.Slack.IntegrationService.Activities": {
+            "include": "Runtime",
+            "target": "Package",
+            "version": "[3.5.3, 3.5.3]"
+          },
           "UiPath.System.Activities": {
             "include": "Runtime",
             "target": "Package",
@@ -23790,5 +23796,17 @@
         "#import": []
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package UiPath.Slack.IntegrationService.Activities. No packages exist with this id in source(s): C:\\Users\\Dinuka Thilakarathne\\AppData\\Local\\Programs\\UiPath\\Studio\\Packages, C:\\Users\\Dinuka Thilakarathne\\OneDrive\\UiPath Re Use Library, https://api.nuget.org/v3/index.json",
+      "libraryId": "UiPath.Slack.IntegrationService.Activities",
+      "targetGraphs": [
+        "net8.0-windows7.0",
+        "net8.0-windows7.0/win-x64"
+      ]
+    }
+  ]
 }
