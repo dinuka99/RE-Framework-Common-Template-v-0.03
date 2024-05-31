@@ -1,4 +1,4 @@
-<Activity mc:Ignorable="sap sap2010" x:Class="Email_Notification" VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="1114.4,709.6" sap2010:WorkflowViewState.IdRef="Email_Notification_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:umam="clr-namespace:UiPath.MicrosoftOffice365.Activities.Mail;assembly=UiPath.MicrosoftOffice365.Activities" xmlns:umame="clr-namespace:UiPath.MicrosoftOffice365.Activities.Mail.Enums;assembly=UiPath.MicrosoftOffice365.Activities" xmlns:usau="clr-namespace:UiPath.Shared.Activities.Utils;assembly=UiPath.MicrosoftOffice365.Activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<Activity mc:Ignorable="sap sap2010" x:Class="Email_Notification" VisualBasic.Settings="{x:Null}" sap:VirtualizedContainerService.HintSize="1114.4,1083.2" sap2010:WorkflowViewState.IdRef="Email_Notification_1" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:sap="http://schemas.microsoft.com/netfx/2009/xaml/activities/presentation" xmlns:sap2010="http://schemas.microsoft.com/netfx/2010/xaml/activities/presentation" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:sco="clr-namespace:System.Collections.ObjectModel;assembly=System.Private.CoreLib" xmlns:ui="http://schemas.uipath.com/workflow/activities" xmlns:umab="clr-namespace:UiPath.Mail.Activities.Business;assembly=UiPath.Mail.Activities" xmlns:umabh="clr-namespace:UiPath.Mail.Activities.Business.HtmlEditor;assembly=UiPath.Mail.Activities" xmlns:umam="clr-namespace:UiPath.MicrosoftOffice365.Activities.Mail;assembly=UiPath.MicrosoftOffice365.Activities" xmlns:umame="clr-namespace:UiPath.MicrosoftOffice365.Activities.Mail.Enums;assembly=UiPath.MicrosoftOffice365.Activities" xmlns:usau="clr-namespace:UiPath.Shared.Activities.Utils;assembly=UiPath.MicrosoftOffice365.Activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <TextExpression.NamespacesForImplementation>
     <sco:Collection x:TypeArguments="x:String">
       <x:String>System.Activities</x:String>
@@ -92,13 +92,36 @@
       <AssemblyReference>UiPath.MicrosoftOffice365</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Email_Notification" sap:VirtualizedContainerService.HintSize="449.6,644.8" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Email_Notification" sap:VirtualizedContainerService.HintSize="593.6,1018.4" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <sap:WorkflowViewStateService.ViewState>
       <scg:Dictionary x:TypeArguments="x:String, x:Object">
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <umam:SendMailConnections ArgumentAttachmentPaths="{x:Null}" AttachmentList="{x:Null}" AttachmentPaths="{x:Null}" Attachments="{x:Null}" Bcc="{x:Null}" Cc="{x:Null}" ConnectionAccountName="{x:Null}" ContinueOnError="{x:Null}" Mailbox="{x:Null}" ReplyTo="{x:Null}" TextBody="{x:Null}" AttachmentInputMode="Existing" AuthScopesInvalid="False" ConnectionId="c6d8469c-fd95-451f-b66d-795663f364f5" DisplayName="Send Email" sap:VirtualizedContainerService.HintSize="387.2,532.8" sap2010:WorkflowViewState.IdRef="SendMailConnections_2" Importance="Normal" InputType="HTML" SaveAsDraft="False" Subject="Test" To="[New String(){&quot;dthilakarathne@innobothealth.com&quot;}]" UseConnectionService="True">
+    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="531.2,373.6" sap2010:WorkflowViewState.IdRef="CommentOut_1">
+      <ui:CommentOut.Body>
+        <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="496,263.2" sap2010:WorkflowViewState.IdRef="Sequence_2">
+          <sap:WorkflowViewStateService.ViewState>
+            <scg:Dictionary x:TypeArguments="x:String, x:Object">
+              <x:Boolean x:Key="IsExpanded">True</x:Boolean>
+            </scg:Dictionary>
+          </sap:WorkflowViewStateService.ViewState>
+          <umab:CreateHtmlContent HtmlContent="{x:Null}" DisplayName="Create HTML Content" sap:VirtualizedContainerService.HintSize="433.6,176.8" sap2010:WorkflowViewState.IdRef="CreateHtmlContent_1">
+            <umab:CreateHtmlContent.HtmlContentArg>
+              <umabh:HtmlContentArgument FilePath="{x:Null}" HtmlBody="&lt;HTML&gt;&lt;HEAD&gt;&#xD;&#xA;&lt;STYLE type=text/css&gt;&#xD;&#xA;        body {&#xD;&#xA;            font-family: Calibri;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        p {&#xD;&#xA;            margin: 0;&#xD;&#xA;        }&#xD;&#xA;&#xD;&#xA;        .mapping {&#xD;&#xA;            background-color: #D3D4D7;&#xD;&#xA;            color: black;&#xD;&#xA;            padding: 1px;&#xD;&#xA;        }&#xD;&#xA;    &lt;/STYLE&gt;&#xD;&#xA;&lt;!-- Instruct the web browser control to use IE 6 to render the page. --&gt;&#xD;&#xA;&lt;META content=IE=6 http-equiv=X-UA-Compatible&gt;&lt;/HEAD&gt;&#xD;&#xA;&lt;BODY&gt;&#xD;&#xA;&lt;P class=MsoNormal style=&quot;MARGIN: 0in&quot;&gt;&lt;FONT face=Arial&gt;&lt;FONT size=2&gt;Dear All,&lt;?xml:namespace prefix = &quot;o&quot; ns = &quot;urn:schemas-microsoft-com:office:office&quot; /&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&#xD;&#xA;&lt;P class=MsoNormal style=&quot;MARGIN: 0in&quot;&gt;&lt;o:p&gt;&lt;FONT size=2 face=Arial&gt;&amp;nbsp;&lt;/FONT&gt;&lt;/o:p&gt;&lt;/P&gt;&#xD;&#xA;&lt;P class=MsoNormal style=&quot;MARGIN: 0in&quot;&gt;&lt;FONT face=Arial&gt;&lt;FONT size=2&gt;The Leader's Rheum verification of Benefits for infusions process has successfully completed. The output file is now available at the following location.&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&#xD;&#xA;&lt;P class=MsoNormal style=&quot;MARGIN: 0in&quot;&gt;&lt;o:p&gt;&lt;FONT size=2 face=Arial&gt;&amp;nbsp;&lt;/FONT&gt;&lt;/o:p&gt;&lt;/P&gt;&#xD;&#xA;&lt;P class=MsoNormal style=&quot;MARGIN: 0in&quot;&gt;&lt;FONT face=Arial&gt;&lt;FONT size=2&gt;File Name: - your file name without file extension like .xlsx &lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&#xD;&#xA;&lt;P class=MsoNormal style=&quot;MARGIN: 0in&quot;&gt;&lt;FONT face=Arial&gt;&lt;FONT size=2&gt;Location: - your sharepoint url&lt;o:p&gt;&lt;/o:p&gt;&lt;/FONT&gt;&lt;/FONT&gt;&lt;/P&gt;&#xD;&#xA;&lt;P class=MsoNormal style=&quot;MARGIN: 0in&quot;&gt;&lt;o:p&gt;&lt;FONT size=2 face=Arial&gt;&amp;nbsp;&lt;/FONT&gt;&lt;/o:p&gt;&lt;/P&gt;&#xD;&#xA;&lt;P class=MsoNormal style=&quot;MARGIN: 0in&quot;&gt;&lt;FONT size=2 face=Arial&gt;Total Records Checked:- 73&lt;/FONT&gt;&lt;o:p&gt;&lt;/o:p&gt;&lt;/P&gt;&#xD;&#xA;&lt;P&gt;&amp;nbsp;&lt;/P&gt;&lt;/BODY&gt;&lt;/HTML&gt;">
+                <umabh:HtmlContentArgument.RuntimeImages>
+                  <scg:Dictionary x:TypeArguments="x:String, InArgument(x:String)" />
+                </umabh:HtmlContentArgument.RuntimeImages>
+                <umabh:HtmlContentArgument.ValueMappings>
+                  <scg:List x:TypeArguments="umabh:HtmlValueMappingBase" Capacity="0" />
+                </umabh:HtmlContentArgument.ValueMappings>
+              </umabh:HtmlContentArgument>
+            </umab:CreateHtmlContent.HtmlContentArg>
+          </umab:CreateHtmlContent>
+        </Sequence>
+      </ui:CommentOut.Body>
+    </ui:CommentOut>
+    <umam:SendMailConnections ArgumentAttachmentPaths="{x:Null}" AttachmentList="{x:Null}" AttachmentPaths="{x:Null}" Attachments="{x:Null}" Bcc="{x:Null}" Cc="{x:Null}" ConnectionAccountName="{x:Null}" ContinueOnError="{x:Null}" Mailbox="{x:Null}" ReplyTo="{x:Null}" TextBody="{x:Null}" AttachmentInputMode="Existing" AuthScopesInvalid="False" ConnectionId="c6d8469c-fd95-451f-b66d-795663f364f5" DisplayName="Send Email" sap:VirtualizedContainerService.HintSize="531.2,556" sap2010:WorkflowViewState.IdRef="SendMailConnections_2" Importance="Normal" InputType="HTML" SaveAsDraft="False" Subject="Test" To="[New String(){&quot;dthilakarathne@innobothealth.com&quot;}]" UseConnectionService="True">
       <umam:SendMailConnections.AttachmentsBackup>
         <usau:BackupSlot x:TypeArguments="umame:AttachmentInputMode" StoredValue="Existing">
           <usau:BackupSlot.BackupValues>

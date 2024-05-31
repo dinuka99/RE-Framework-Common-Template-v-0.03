@@ -120,6 +120,18 @@
           }
         }
       },
+      "DotNetProjects.WpfToolkit.Input/6.0.79": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/DotNetProjects.Input.Toolkit.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
+      },
       "ExcelNumberFormat/1.0.10": {
         "type": "package",
         "compile": {
@@ -5560,6 +5572,61 @@
           }
         }
       },
+      "UiPath.Slack.IntegrationService.Activities/3.5.3": {
+        "type": "package",
+        "dependencies": {
+          "DotNetProjects.WpfToolkit.Input": "6.0.79",
+          "Newtonsoft.Json": "13.0.1",
+          "System.ComponentModel.Annotations": "4.6.0",
+          "System.IO.Abstractions": "3.0.10",
+          "System.ValueTuple": "4.5.0",
+          "UiPath.ConnectionClient": "1.1.2",
+          "UiPath.Platform": "21.12.0-preview",
+          "UiPath.Telemetry.Client": "1.5.3"
+        },
+        "compile": {
+          "lib/net5.0-windows7.0/_._": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/UiPath.Slack.IntegrationService.Activities.Design.dll": {},
+          "lib/net5.0-windows7.0/UiPath.Slack.IntegrationService.Activities.dll": {},
+          "lib/net5.0-windows7.0/UiPath.Slack.IntegrationService.dll": {
+            "related": ".Packaging.pdb"
+          }
+        },
+        "resource": {
+          "lib/net5.0-windows7.0/de/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net5.0-windows7.0/es-MX/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "es-MX"
+          },
+          "lib/net5.0-windows7.0/fr/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net5.0-windows7.0/ja/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net5.0-windows7.0/ko/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net5.0-windows7.0/pt-BR/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net5.0-windows7.0/pt/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/net5.0-windows7.0/ru/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net5.0-windows7.0/tr/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net5.0-windows7.0/zh-CN/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "zh-CN"
+          }
+        }
+      },
       "UiPath.System.Activities/23.12.0-preview": {
         "type": "package",
         "dependencies": {
@@ -6424,6 +6491,18 @@
             "related": ".xml"
           }
         }
+      },
+      "DotNetProjects.WpfToolkit.Input/6.0.79": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/_._": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/DotNetProjects.Input.Toolkit.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WPF"
+        ]
       },
       "ExcelNumberFormat/1.0.10": {
         "type": "package",
@@ -11673,6 +11752,61 @@
           }
         }
       },
+      "UiPath.Slack.IntegrationService.Activities/3.5.3": {
+        "type": "package",
+        "dependencies": {
+          "DotNetProjects.WpfToolkit.Input": "6.0.79",
+          "Newtonsoft.Json": "13.0.1",
+          "System.ComponentModel.Annotations": "4.6.0",
+          "System.IO.Abstractions": "3.0.10",
+          "System.ValueTuple": "4.5.0",
+          "UiPath.ConnectionClient": "1.1.2",
+          "UiPath.Platform": "21.12.0-preview",
+          "UiPath.Telemetry.Client": "1.5.3"
+        },
+        "compile": {
+          "lib/net5.0-windows7.0/_._": {}
+        },
+        "runtime": {
+          "lib/net5.0-windows7.0/UiPath.Slack.IntegrationService.Activities.Design.dll": {},
+          "lib/net5.0-windows7.0/UiPath.Slack.IntegrationService.Activities.dll": {},
+          "lib/net5.0-windows7.0/UiPath.Slack.IntegrationService.dll": {
+            "related": ".Packaging.pdb"
+          }
+        },
+        "resource": {
+          "lib/net5.0-windows7.0/de/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "de"
+          },
+          "lib/net5.0-windows7.0/es-MX/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "es-MX"
+          },
+          "lib/net5.0-windows7.0/fr/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "fr"
+          },
+          "lib/net5.0-windows7.0/ja/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "ja"
+          },
+          "lib/net5.0-windows7.0/ko/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "ko"
+          },
+          "lib/net5.0-windows7.0/pt-BR/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "pt-BR"
+          },
+          "lib/net5.0-windows7.0/pt/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "pt"
+          },
+          "lib/net5.0-windows7.0/ru/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "ru"
+          },
+          "lib/net5.0-windows7.0/tr/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "tr"
+          },
+          "lib/net5.0-windows7.0/zh-CN/UiPath.Slack.IntegrationService.resources.dll": {
+            "locale": "zh-CN"
+          }
+        }
+      },
       "UiPath.System.Activities/23.12.0-preview": {
         "type": "package",
         "dependencies": {
@@ -12557,6 +12691,19 @@
         "lib/netstandard1.3/DocumentFormat.OpenXml.xml",
         "lib/netstandard2.0/DocumentFormat.OpenXml.dll",
         "lib/netstandard2.0/DocumentFormat.OpenXml.xml"
+      ]
+    },
+    "DotNetProjects.WpfToolkit.Input/6.0.79": {
+      "sha512": "tC5zqW8d++LPULy3NFaX9uzrK5MYluRv3GRagElmhHrjtsJumBYfCohcNlroXapBcJeQnXRE5DE56ukXMk9z9w==",
+      "type": "package",
+      "path": "dotnetprojects.wpftoolkit.input/6.0.79",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "dotnetprojects.wpftoolkit.input.6.0.79.nupkg.sha512",
+        "dotnetprojects.wpftoolkit.input.nuspec",
+        "lib/net40/DotNetProjects.Input.Toolkit.dll",
+        "lib/netcoreapp3.0/DotNetProjects.Input.Toolkit.dll"
       ]
     },
     "ExcelNumberFormat/1.0.10": {
@@ -22778,6 +22925,59 @@
         "uipath.platform.nuspec"
       ]
     },
+    "UiPath.Slack.IntegrationService.Activities/3.5.3": {
+      "sha512": "N2Xu6rJ6TX6Mh92HVz1uOsGt/CxXhw38OYaxmF/c2Ek4P0giM/rMhqUMX1XQqqoMOpRO1Ps1CdjYmVUCyy3YCA==",
+      "type": "package",
+      "path": "uipath.slack.integrationservice.activities/3.5.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net461/ActiproSoftware.Shared.Wpf.dll",
+        "lib/net461/UiPath.Slack.IntegrationService.Activities.Design.dll",
+        "lib/net461/UiPath.Slack.IntegrationService.Activities.dll",
+        "lib/net461/UiPath.Slack.IntegrationService.Packaging.pdb",
+        "lib/net461/UiPath.Slack.IntegrationService.dll",
+        "lib/net461/de/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net461/es-MX/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net461/fr/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net461/ja/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net461/ko/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net461/pt-BR/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net461/pt/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net461/ru/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net461/tr/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net461/zh-CN/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0-windows7.0/UiPath.Slack.IntegrationService.Activities.Design.dll",
+        "lib/net5.0-windows7.0/UiPath.Slack.IntegrationService.Activities.dll",
+        "lib/net5.0-windows7.0/UiPath.Slack.IntegrationService.Packaging.pdb",
+        "lib/net5.0-windows7.0/UiPath.Slack.IntegrationService.dll",
+        "lib/net5.0-windows7.0/de/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0-windows7.0/es-MX/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0-windows7.0/fr/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0-windows7.0/ja/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0-windows7.0/ko/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0-windows7.0/pt-BR/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0-windows7.0/pt/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0-windows7.0/ru/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0-windows7.0/tr/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0-windows7.0/zh-CN/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0/UiPath.Slack.IntegrationService.Activities.dll",
+        "lib/net5.0/UiPath.Slack.IntegrationService.Packaging.pdb",
+        "lib/net5.0/UiPath.Slack.IntegrationService.dll",
+        "lib/net5.0/de/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0/es-MX/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0/fr/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0/ja/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0/ko/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0/pt-BR/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0/pt/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0/ru/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0/tr/UiPath.Slack.IntegrationService.resources.dll",
+        "lib/net5.0/zh-CN/UiPath.Slack.IntegrationService.resources.dll",
+        "uipath.slack.integrationservice.activities.3.5.3.nupkg.sha512",
+        "uipath.slack.integrationservice.activities.nuspec"
+      ]
+    },
     "UiPath.System.Activities/23.12.0-preview": {
       "sha512": "mh2x63IQucdGUII+q6kXH0Ioto89HkE9f65Iic6Y7ROJkrlj+jK/bvvKcf6RjBM/RMti6lJ8Kf0YOVbg1B08yQ==",
       "type": "package",
@@ -23796,17 +23996,5 @@
         "#import": []
       }
     }
-  },
-  "logs": [
-    {
-      "code": "NU1101",
-      "level": "Error",
-      "message": "Unable to find package UiPath.Slack.IntegrationService.Activities. No packages exist with this id in source(s): C:\\Users\\Dinuka Thilakarathne\\AppData\\Local\\Programs\\UiPath\\Studio\\Packages, C:\\Users\\Dinuka Thilakarathne\\OneDrive\\UiPath Re Use Library, https://api.nuget.org/v3/index.json",
-      "libraryId": "UiPath.Slack.IntegrationService.Activities",
-      "targetGraphs": [
-        "net8.0-windows7.0",
-        "net8.0-windows7.0/win-x64"
-      ]
-    }
-  ]
+  }
 }
