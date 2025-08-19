@@ -129,7 +129,7 @@
       <AssemblyReference>Microsoft.VisualBasic.Core</AssemblyReference>
     </sco:Collection>
   </TextExpression.ReferencesForImplementation>
-  <Sequence DisplayName="Sequence" sap:VirtualizedContainerService.HintSize="592,2230.4" sap2010:WorkflowViewState.IdRef="Sequence_1">
+  <Sequence DisplayName="Sequence" sap:VirtualizedContainerService.HintSize="1199.6000000000001,2057.6" sap2010:WorkflowViewState.IdRef="Sequence_1">
     <Sequence.Variables>
       <Variable x:TypeArguments="x:String" Default="D:\HPCB\731533108_0_AFD817B2_RAPDFBATCH_0_008108572.pdf" Name="strFilePath" />
       <Variable x:TypeArguments="x:String" Name="pdfValueOut" />
@@ -142,8 +142,8 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <ui:ReadPDFText PreserveFormatting="{x:Null}" DisplayName="Read PDF Text" FileName="[strFilePath]" sap:VirtualizedContainerService.HintSize="529.6,115.2" sap2010:WorkflowViewState.IdRef="ReadPDFText_1" Range="All" Text="[pdfValueOut]" />
-    <umaf:UseDriveCard ConnectionAccountName="{x:Null}" ConnectionId="{x:Null}" ContinueOnError="{x:Null}" Timeout="{x:Null}" Account="dthilakarathne@innobothealth.com" Connector="uipath-microsoft-onedrive" DisplayName="Use OneDrive &amp; SharePoint" EmailAddress="dthilakarathne@innobothealth.com" sap:VirtualizedContainerService.HintSize="529.6,536.8" sap2010:WorkflowViewState.IdRef="UseDriveCard_1" UseConnectionService="False">
+    <ui:ReadPDFText PreserveFormatting="{x:Null}" DisplayName="Read PDF Text" FileName="[strFilePath]" sap:VirtualizedContainerService.HintSize="483.2,115.2" sap2010:WorkflowViewState.IdRef="ReadPDFText_1" Range="All" Text="[pdfValueOut]" />
+    <umaf:UseDriveCard ConnectionAccountName="{x:Null}" ConnectionId="{x:Null}" ContinueOnError="{x:Null}" Timeout="{x:Null}" Account="dthilakarathne@innobothealth.com" Connector="uipath-microsoft-onedrive" DisplayName="Use OneDrive &amp; SharePoint" EmailAddress="dthilakarathne@innobothealth.com" sap:VirtualizedContainerService.HintSize="483.2,510.4" sap2010:WorkflowViewState.IdRef="UseDriveCard_1" UseConnectionService="False">
       <umaf:UseDriveCard.ApplicationId>
         <InArgument x:TypeArguments="x:String">
           <Literal x:TypeArguments="x:String" Value="" />
@@ -154,13 +154,13 @@
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="umafc:IDriveMetadata" Name="DriveLocation" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="416,366.4" sap2010:WorkflowViewState.IdRef="Sequence_8">
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="449.6,340" sap2010:WorkflowViewState.IdRef="Sequence_8">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <umaf:CreateFolderConnections BrowserItemFriendlyName="{x:Null}" BrowserItemId="{x:Null}" BrowserParentItemId="{x:Null}" ConnectionAccountName="{x:Null}" ContinueOnError="{x:Null}" ManualEntryDriveName="{x:Null}" ManualEntryItemFullPath="{x:Null}" ManualEntryItemId="{x:Null}" ManualEntryItemRelativePath="{x:Null}" ManualEntrySiteUrl="{x:Null}" Result="{x:Null}" AuthScopesInvalid="False" ConflictResolution="Fail" ConnectionId="8a4ede69-3147-4d52-82a4-e3e122011cac" DisplayName="Create Folder" sap:VirtualizedContainerService.HintSize="353.6,280" sap2010:WorkflowViewState.IdRef="CreateFolderConnections_1" ItemSelectionMode="ItemUrl" ManualEntryItemUrl="https://innobothealthusa.sharepoint.com/:f:/s/innobot-hpcb/EiorU3t1QIhDjUaKoPd530oBNKlINlCEP8xTx5kqrnKiXA?e=eUn68G" NewFolderName="Test Folder" UseConnectionService="True">
+            <umaf:CreateFolderConnections BrowserItemFriendlyName="{x:Null}" BrowserItemId="{x:Null}" BrowserParentItemId="{x:Null}" ConnectionAccountName="{x:Null}" ContinueOnError="{x:Null}" ManualEntryDriveName="{x:Null}" ManualEntryItemFullPath="{x:Null}" ManualEntryItemId="{x:Null}" ManualEntryItemRelativePath="{x:Null}" ManualEntrySiteUrl="{x:Null}" Result="{x:Null}" AuthScopesInvalid="False" ConflictResolution="Fail" ConnectionId="8a4ede69-3147-4d52-82a4-e3e122011cac" DisplayName="Create Folder" sap:VirtualizedContainerService.HintSize="416,280" sap2010:WorkflowViewState.IdRef="CreateFolderConnections_1" ItemSelectionMode="ItemUrl" ManualEntryItemUrl="https://innobothealthusa.sharepoint.com/:f:/s/innobot-hpcb/EiorU3t1QIhDjUaKoPd530oBNKlINlCEP8xTx5kqrnKiXA?e=eUn68G" NewFolderName="Test Folder" UseConnectionService="True">
               <umaf:CreateFolderConnections.BrowserDriveName>
                 <InArgument x:TypeArguments="x:String" />
               </umaf:CreateFolderConnections.BrowserDriveName>
@@ -188,7 +188,7 @@
         </InArgument>
       </umaf:UseDriveCard.TenantId>
     </umaf:UseDriveCard>
-    <uma:Office365ApplicationScope ApplicationId="{x:Null}" ApplicationSecret="{x:Null}" BrowserItemFriendlyName="{x:Null}" BrowserItemId="{x:Null}" BrowserParentItemId="{x:Null}" CertificateAsBase64="{x:Null}" CertificatePassword="{x:Null}" ConnectionAccountName="{x:Null}" ConnectionId="{x:Null}" Connector="{x:Null}" ContinueOnError="{x:Null}" Password="{x:Null}" SecureApplicationSecret="{x:Null}" SecurePassword="{x:Null}" TenantId="{x:Null}" Timeout="{x:Null}" Username="{x:Null}" Account="dthilakarathne@innobothealth.com (1)" AuthenticationType="InteractiveToken" ConfigLocation="PropertiesPanel" DisplayName="Microsoft 365 Scope" EmailAddress="dthilakarathne@innobothealth.com" Environment="Global" sap:VirtualizedContainerService.HintSize="529.6,355.2" sap2010:WorkflowViewState.IdRef="Office365ApplicationScope_1" OAuthApplication="UiPath" UseConnectionService="False">
+    <uma:Office365ApplicationScope ApplicationId="{x:Null}" ApplicationSecret="{x:Null}" BrowserItemFriendlyName="{x:Null}" BrowserItemId="{x:Null}" BrowserParentItemId="{x:Null}" CertificateAsBase64="{x:Null}" CertificatePassword="{x:Null}" ConnectionAccountName="{x:Null}" ConnectionId="{x:Null}" Connector="{x:Null}" ContinueOnError="{x:Null}" Password="{x:Null}" SecureApplicationSecret="{x:Null}" SecurePassword="{x:Null}" TenantId="{x:Null}" Timeout="{x:Null}" Username="{x:Null}" Account="dthilakarathne@innobothealth.com (1)" AuthenticationType="InteractiveToken" ConfigLocation="PropertiesPanel" DisplayName="Microsoft 365 Scope" EmailAddress="dthilakarathne@innobothealth.com" Environment="Global" sap:VirtualizedContainerService.HintSize="483.2,324.8" sap2010:WorkflowViewState.IdRef="Office365ApplicationScope_1" OAuthApplication="UiPath" UseConnectionService="False">
       <uma:Office365ApplicationScope.AuthenticationScopes>
         <scg:List x:TypeArguments="InArgument(x:String)" Capacity="0" />
       </uma:Office365ApplicationScope.AuthenticationScopes>
@@ -197,7 +197,7 @@
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="umac:IClientServices" Name="ParentScope" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="416,102.4" sap2010:WorkflowViewState.IdRef="Sequence_7">
+          <Sequence DisplayName="Do" sap:VirtualizedContainerService.HintSize="416,89.6" sap2010:WorkflowViewState.IdRef="Sequence_7">
             <sap:WorkflowViewStateService.ViewState>
               <scg:Dictionary x:TypeArguments="x:String, x:Object">
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
@@ -207,7 +207,7 @@
         </ActivityAction>
       </uma:Office365ApplicationScope.Body>
     </uma:Office365ApplicationScope>
-    <Assign sap:VirtualizedContainerService.HintSize="529.6,113.6" sap2010:WorkflowViewState.IdRef="Assign_9">
+    <Assign sap:VirtualizedContainerService.HintSize="483.2,113.6" sap2010:WorkflowViewState.IdRef="Assign_9">
       <Assign.To>
         <OutArgument x:TypeArguments="s:String[]">[pName3]</OutArgument>
       </Assign.To>
@@ -215,7 +215,7 @@
         <InArgument x:TypeArguments="s:String[]">[pdfValueOut.Split(","c)]</InArgument>
       </Assign.Value>
     </Assign>
-    <Assign sap:VirtualizedContainerService.HintSize="529.6,113.6" sap2010:WorkflowViewState.IdRef="Assign_7">
+    <Assign sap:VirtualizedContainerService.HintSize="483.2,113.6" sap2010:WorkflowViewState.IdRef="Assign_7">
       <Assign.To>
         <OutArgument x:TypeArguments="x:String">[pName]</OutArgument>
       </Assign.To>
@@ -223,7 +223,7 @@
         <InArgument x:TypeArguments="x:String">[System.Text.RegularExpressions.Regex.Match(pdfValueOut, "CLIENT NAME: (\w+(?:\s+\w+)*)\s+CLIENT NO").Value]</InArgument>
       </Assign.Value>
     </Assign>
-    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="529.6,56.8" sap2010:WorkflowViewState.IdRef="CommentOut_1">
+    <ui:CommentOut DisplayName="Comment Out" sap:VirtualizedContainerService.HintSize="483.2,56.8" sap2010:WorkflowViewState.IdRef="CommentOut_1">
       <ui:CommentOut.Body>
         <Sequence DisplayName="Ignored Activities" sap:VirtualizedContainerService.HintSize="496,191.2" sap2010:WorkflowViewState.IdRef="Sequence_5">
           <sap:WorkflowViewStateService.ViewState>
@@ -248,7 +248,7 @@
         </scg:Dictionary>
       </sap:WorkflowViewStateService.ViewState>
     </ui:CommentOut>
-    <Assign sap:VirtualizedContainerService.HintSize="529.6,113.6" sap2010:WorkflowViewState.IdRef="Assign_8">
+    <Assign sap:VirtualizedContainerService.HintSize="483.2,113.6" sap2010:WorkflowViewState.IdRef="Assign_8">
       <Assign.To>
         <OutArgument x:TypeArguments="s:String[]">[pName2]</OutArgument>
       </Assign.To>
@@ -256,14 +256,14 @@
         <InArgument x:TypeArguments="s:String[]">[System.Text.RegularExpressions.Regex.Matches(pdfValueOut, "CLIENT NAME:\s*(.*?)\s*CLIENT NO").Cast(Of Match).Select(Function(m) m.Groups(1).Value).ToArray]</InArgument>
       </Assign.Value>
     </Assign>
-    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="529.6,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="[UiPath.Core.Activities.LogLevel.Info]" Message="[pName2.ToString]" />
-    <ui:ForEach x:TypeArguments="s:String[]" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="529.6,562.4" sap2010:WorkflowViewState.IdRef="ForEach`1_3" Values="[pName2]">
+    <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="483.2,174.4" sap2010:WorkflowViewState.IdRef="LogMessage_2" Level="[UiPath.Core.Activities.LogLevel.Info]" Message="[pName2.ToString]" />
+    <ui:ForEach x:TypeArguments="s:String[]" CurrentIndex="{x:Null}" DisplayName="For Each" sap:VirtualizedContainerService.HintSize="483.2,512" sap2010:WorkflowViewState.IdRef="ForEach`1_3" Values="[pName2]">
       <ui:ForEach.Body>
         <ActivityAction x:TypeArguments="s:String[]">
           <ActivityAction.Argument>
             <DelegateInArgument x:TypeArguments="s:String[]" Name="currentItem" />
           </ActivityAction.Argument>
-          <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="496,373.6" sap2010:WorkflowViewState.IdRef="Sequence_4">
+          <Sequence DisplayName="Body" sap:VirtualizedContainerService.HintSize="467.2,339.2" sap2010:WorkflowViewState.IdRef="Sequence_4">
             <Sequence.Variables>
               <Variable x:TypeArguments="x:String" Name="patientName" />
               <Variable x:TypeArguments="s:String[]" Name="pName2p" />
@@ -273,7 +273,7 @@
                 <x:Boolean x:Key="IsExpanded">True</x:Boolean>
               </scg:Dictionary>
             </sap:WorkflowViewStateService.ViewState>
-            <Assign sap:VirtualizedContainerService.HintSize="433.6,121.6" sap2010:WorkflowViewState.IdRef="Assign_6">
+            <Assign sap:VirtualizedContainerService.HintSize="433.6,113.6" sap2010:WorkflowViewState.IdRef="Assign_6">
               <Assign.To>
                 <OutArgument x:TypeArguments="s:String[]">[pName2p]</OutArgument>
               </Assign.To>
